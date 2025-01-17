@@ -1,0 +1,8 @@
+ipywidgets==8.0.4
+ipython==8.12.0
+plotly==5.9.0
+pandas==1.5.3
+python-docx==0.8.11
+matplotlib==3.7.1
+numpy==1.24.2
+voila==0.4.0
